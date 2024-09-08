@@ -27,10 +27,3 @@ The computer will also randomly choose one of these options. Based on the rules 
 
 ### Same Choices (Snake vs Snake, Water vs Water, Gun vs Gun)
 - **Draw** if both the player and the computer select the same option.
-
-## Compilation and Execution
-
-### Compilation
-To compile the program, use the following command:
-```bash
-gcc -o snake_water_gun game.c
